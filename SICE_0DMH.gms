@@ -1,5 +1,5 @@
 $ontext
-version 1/November 2022
+version 2/December 2022
 
 This file modifies code obtained from https://williamnordhaus.com/dicerice-models in a manner described in Ikefuji et al. (2021).
 See https://github.com/chrismuris/DICE-Simplified for more information.
